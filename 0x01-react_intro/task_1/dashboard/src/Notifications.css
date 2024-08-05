@@ -1,5 +1,4 @@
-.Notifications {
-	padding: 2em;
-	border: 2px solid red;
-	font-family: Arial, Helvetica, sans-serif;
+.Notifications{
+    border: 2px solid #eb2525;
+    padding: 1rem;
 }
